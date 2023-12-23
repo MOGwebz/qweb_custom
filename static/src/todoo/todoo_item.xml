@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates xml:space="preserve">
+    <t t-name = "qweb_custom.TodoItem">
+        <div>
+            <t t-esc = "props.todo.id"></t>.
+            <t t-esc = "props.todo.description"></t>
+        </div>
+    </t>
+</templates>

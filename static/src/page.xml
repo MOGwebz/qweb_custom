@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates xml:space="preserve">
+        <t  t-name="qweb_custom.Page">
+            <div class="p-3">
+                Hello Derrick Finally You did it
+            </div>
+        </t>
+ </templates>

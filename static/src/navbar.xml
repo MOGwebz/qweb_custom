@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates xml:space="preserve">
+    <t t-name = "qweb_custom.Navbar">
+        <div class="o-navbar p-2 text-white">
+            <span class="mx-1">
+                <t t-out="props.currentApp"/>
+            </span>
+        </div>
+    </t>
+</templates>

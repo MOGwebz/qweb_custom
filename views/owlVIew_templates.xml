@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <templates xml:space="preserve">
+        <t t-name="qweb_view_custom.jsTemplates">
+            <div class="alert alert-primary">
+                <div class="h3">render from the public widget</div>
+            </div>
+        </t>
+    </templates>
+
+</odoo>
